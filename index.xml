@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>My Name is ali88.It is my Hugo Host First.</title>
+    <link>http://ali88code.github.io/</link>
+    <description>Recent content on My Name is ali88.It is my Hugo Host First.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jan 2016 09:03:05 -0500</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ali88code.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo</title>
-      <link>http://replace-this-with-your-hugo-site.com/hugo/</link>
+      <link>http://ali88code.github.io/hugo/</link>
       <pubDate>Sun, 24 Jan 2016 09:03:05 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/hugo/</guid>
+      <guid>http://ali88code.github.io/hugo/</guid>
       <description>
 
 &lt;h2 id=&#34;安裝hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;安裝hugo&lt;/h2&gt;
@@ -97,10 +97,10 @@ hugo server  --buildDrafts --theme=crisp --baseURL=&amp;quot;http://188.166.241.
     
     <item>
       <title>gitT2</title>
-      <link>http://replace-this-with-your-hugo-site.com/gitT2/</link>
+      <link>http://ali88code.github.io/gitT2/</link>
       <pubDate>Sun, 24 Jan 2016 08:45:18 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/gitT2/</guid>
+      <guid>http://ali88code.github.io/gitT2/</guid>
       <description>
 
 &lt;h1 id=&#34;第-06-天-解析-git-資料結構-物件結構:cae9e3640134477bd0abf2bb811c43a6&#34;&gt;第 06 天：解析 Git 資料結構 - 物件結構&lt;/h1&gt;
@@ -186,10 +186,10 @@ hugo server  --buildDrafts --theme=crisp --baseURL=&amp;quot;http://188.166.241.
     
     <item>
       <title>gitT</title>
-      <link>http://replace-this-with-your-hugo-site.com/gitT/</link>
+      <link>http://ali88code.github.io/gitT/</link>
       <pubDate>Sun, 24 Jan 2016 08:41:12 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/gitT/</guid>
+      <guid>http://ali88code.github.io/gitT/</guid>
       <description>
 
 &lt;h1 id=&#34;第-01-天-認識-git-版本控管:d1a88bf24ad900859c1971a88408397d&#34;&gt;第 01 天：認識 Git 版本控管&lt;/h1&gt;
