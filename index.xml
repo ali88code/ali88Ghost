@@ -19,9 +19,21 @@
 
 &lt;h1 id=&#34;nginx-proxy-cache:1246daae3ebb4ac275b8ba8e055bf6ad&#34;&gt;Nginx Proxy Cache&lt;/h1&gt;
 
+&lt;ul&gt;
+&lt;li&gt;應用於Reverse Proxy,負載均衡&lt;/li&gt;
+&lt;li&gt;作用是緩存後端服務器的內容，可能是任何內容，包括靜態的和動態&lt;/li&gt;
+&lt;li&gt;另外,也可作正向代理 (Nginx 這邊支援 web proxy)&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;img src=&#34;images/nginx_cache.jpeg&#34; alt=&#34;Nginx_Proxy_Cache&#34; title=&#34;Nginx_Proxy_Cache&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;nginx-fastcgi-cache:1246daae3ebb4ac275b8ba8e055bf6ad&#34;&gt;Nginx Fastcgi Cache&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;proxy_cache 與 fastcgi_cache功能大至一樣。&lt;/li&gt;
+&lt;li&gt;用是緩存fastcgi生成的內容，很多情況是php生成的動態的內容。&lt;/li&gt;
+&lt;li&gt;緩存作用。減少了nginx與Application(php,python,cgi等等)通信的次數。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;images/nginx_Fastcgi_cache.jpeg&#34; alt=&#34;Nginx_Fastcgi_Cache&#34; title=&#34;Nginx_Fastcgi_Cache&#34; /&gt;&lt;/p&gt;
 
