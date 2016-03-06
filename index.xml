@@ -6,8 +6,18 @@
     <description>Recent content on My Name is ali88.It is my Hugo Host First.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2016 09:03:05 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2016 01:24:51 -0500</lastBuildDate>
     <atom:link href="http://ali88code.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NginxFastCgicache</title>
+      <link>http://ali88code.github.io/NginxFastCgicache/</link>
+      <pubDate>Sun, 06 Mar 2016 01:24:51 -0500</pubDate>
+      
+      <guid>http://ali88code.github.io/NginxFastCgicache/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;nginx_cache.jpeg&#34; alt=&#34;Nginx_Proxy_Cache&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hugo</title>
