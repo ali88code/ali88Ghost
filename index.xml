@@ -24,6 +24,14 @@
 &lt;h1 id=&#34;nginx-fastcgi-cache:1246daae3ebb4ac275b8ba8e055bf6ad&#34;&gt;Nginx Fastcgi Cache&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;images/nginx_Fastcgi_cache.jpeg&#34; alt=&#34;Nginx_Fastcgi_Cache&#34; title=&#34;Nginx_Fastcgi_Cache&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;參考資料:1246daae3ebb4ac275b8ba8e055bf6ad&#34;&gt;參考資料&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html&#34;&gt;Module ngx_http_fastcgi_module&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://czerasz.com/2015/03/30/nginx-caching-tutorial/&#34;&gt;Nginx Caching Tutorial - You Can Run Faster&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
