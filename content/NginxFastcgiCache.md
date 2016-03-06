@@ -11,3 +11,10 @@ title = "Nginx_Fastcgi_Cache + Lua 執行過程"
 # Nginx Fastcgi Cache #
 
 ![Nginx_Fastcgi_Cache](images/nginx_Fastcgi_cache.jpeg "Nginx_Fastcgi_Cache")
+
+
+# 參考資料 #
+
+ - [Module ngx_http_fastcgi_module](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html)
+ 
+ - [Nginx Caching Tutorial - You Can Run Faster](http://czerasz.com/2015/03/30/nginx-caching-tutorial/) 
