@@ -2,38 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Name is ali88.It is my Hugo Host First.</title>
-    <link>http://ali88code.github.io/</link>
+    <link>http://ali88code.aligogo.pw/</link>
     <description>Recent content on My Name is ali88.It is my Hugo Host First.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Mar 2016 01:24:51 -0500</lastBuildDate>
-    <atom:link href="http://ali88code.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ali88code.aligogo.pw/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nginx_Fastcgi_Cache &#43; Lua 執行過程</title>
-      <link>http://ali88code.github.io/NginxFastcgiCache/</link>
+      <link>http://ali88code.aligogo.pw/NginxFastcgiCache/</link>
       <pubDate>Sun, 06 Mar 2016 01:24:51 -0500</pubDate>
       
-      <guid>http://ali88code.github.io/NginxFastcgiCache/</guid>
+      <guid>http://ali88code.aligogo.pw/NginxFastcgiCache/</guid>
       <description>
 
 &lt;h1 id=&#34;nginx-proxy-cache:1246daae3ebb4ac275b8ba8e055bf6ad&#34;&gt;Nginx Proxy Cache&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;應用於Reverse Proxy,負載均衡&lt;/li&gt;
-&lt;li&gt;作用是緩存後端服務器的內容，可能是任何內容，包括靜態的和動態&lt;/li&gt;
-&lt;li&gt;另外,也可作正向代理 (Nginx 這邊支援 web proxy)&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;p&gt;&lt;img src=&#34;images/nginx_cache.jpeg&#34; alt=&#34;Nginx_Proxy_Cache&#34; title=&#34;Nginx_Proxy_Cache&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;nginx-fastcgi-cache:1246daae3ebb4ac275b8ba8e055bf6ad&#34;&gt;Nginx Fastcgi Cache&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;proxy_cache 與 fastcgi_cache功能大至一樣。&lt;/li&gt;
-&lt;li&gt;用是緩存fastcgi生成的內容，很多情況是php生成的動態的內容。&lt;/li&gt;
-&lt;li&gt;緩存作用。減少了nginx與Application(php,python,cgi等等)通信的次數。&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;images/nginx_Fastcgi_cache.jpeg&#34; alt=&#34;Nginx_Fastcgi_Cache&#34; title=&#34;Nginx_Fastcgi_Cache&#34; /&gt;&lt;/p&gt;
 
@@ -49,10 +37,10 @@
     
     <item>
       <title>Hugo</title>
-      <link>http://ali88code.github.io/hugo/</link>
+      <link>http://ali88code.aligogo.pw/hugo/</link>
       <pubDate>Sun, 24 Jan 2016 09:03:05 -0500</pubDate>
       
-      <guid>http://ali88code.github.io/hugo/</guid>
+      <guid>http://ali88code.aligogo.pw/hugo/</guid>
       <description>
 
 &lt;h2 id=&#34;安裝hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;安裝hugo&lt;/h2&gt;
@@ -135,10 +123,10 @@ hugo server  --buildDrafts --theme=crisp --baseURL=&amp;quot;http://188.166.241.
     
     <item>
       <title>gitT2</title>
-      <link>http://ali88code.github.io/gitT2/</link>
+      <link>http://ali88code.aligogo.pw/gitT2/</link>
       <pubDate>Sun, 24 Jan 2016 08:45:18 -0500</pubDate>
       
-      <guid>http://ali88code.github.io/gitT2/</guid>
+      <guid>http://ali88code.aligogo.pw/gitT2/</guid>
       <description>
 
 &lt;h1 id=&#34;第-06-天-解析-git-資料結構-物件結構:cae9e3640134477bd0abf2bb811c43a6&#34;&gt;第 06 天：解析 Git 資料結構 - 物件結構&lt;/h1&gt;
@@ -224,10 +212,10 @@ hugo server  --buildDrafts --theme=crisp --baseURL=&amp;quot;http://188.166.241.
     
     <item>
       <title>gitT</title>
-      <link>http://ali88code.github.io/gitT/</link>
+      <link>http://ali88code.aligogo.pw/gitT/</link>
       <pubDate>Sun, 24 Jan 2016 08:41:12 -0500</pubDate>
       
-      <guid>http://ali88code.github.io/gitT/</guid>
+      <guid>http://ali88code.aligogo.pw/gitT/</guid>
       <description>
 
 &lt;h1 id=&#34;第-01-天-認識-git-版本控管:d1a88bf24ad900859c1971a88408397d&#34;&gt;第 01 天：認識 Git 版本控管&lt;/h1&gt;
